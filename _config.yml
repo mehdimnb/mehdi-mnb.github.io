@@ -1,12 +1,14 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: "Mounib Mohamed El Mahdi"
+email: "mounibmohamedelmahdi@gmail.com"
+description: "Senior Technical Supervisor | IT, BMS & Smart Mobility Expert"
+baseurl: ""
 url: "https://mehdi-mnb.github.io"
 
-twitter_username:
-github_username:
+# Social links
+github_username: "Mehdimnb"
+linkedin_username: "mahdi-mnb"
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
